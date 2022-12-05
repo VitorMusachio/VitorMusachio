@@ -17,7 +17,8 @@
 <a href="https://instagram.com/vitormusachio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitormusachio" height="30" width="40" /></a>
 <a href="https://medium.com/@vitormusachio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vitormusachio" height="30" width="40" /></a>
 <a href="https://discord.gg/vitormusachio#1547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vitormusachio#1547" height="30" width="40" /></a>
-<a href="https://lichess.org/@/vitormusachio" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/lichess.svg" alt="vitormusachio" height="30" width="40" /></a>
+<a href="https://www.chess.com/member/vitormusachio" target="blank"><img align="center" src="https://camo.githubusercontent.com/f53f9b08e492dd7dadb49a3d387fce05e631fd9773041512249965cf32022b01/68747470733a2f2f696d616765732e6368657373636f6d66696c65732e636f6d2f75706c6f6164732f76312f696d616765735f75736572732f74696e795f6d63652f53616d436f70656c616e642f7068706d65587836562e706e67" alt="vitormusachio" height="30" width="40" /></a>
+ <a href="https://lichess.org/@/vitormusachio" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/lichess.svg" alt="vitormusachio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

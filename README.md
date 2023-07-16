@@ -2,7 +2,7 @@
 
 - I’m currently working with Data Analytics at [Santander](https://www.santander.com/en/careers/where-you-want-to-create-an-impact/data-science-and-analytics), focusing in anti-fraud models.
 
-- I also collaborate as a Data Mentor at [Awari School]([https://app.awari.com.br/](https://github.com/awarischool)), an online school with Data Science courses, helping people get into this career.
+- I also collaborate as a Data Mentor at [Awari School](https://github.com/awarischool), an online school with Data Science courses, helping people get into this career.
 
 - I’m currently learning **about data platform practices.**
 

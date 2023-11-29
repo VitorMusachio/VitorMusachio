@@ -28,5 +28,5 @@
 
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vitormusachio&show_icons=true&locale=en&theme=transparent&hide_border=true&hide_title=true" alt="vitormusachio"/></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vitormusachio&show_icons=true&locale=en&theme=transparent&hide_border=true&card_width=350" alt="vitormusachio"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vitormusachio&show_icons=true&locale=en&theme=transparent&hide_border=true&card_width=320" alt="vitormusachio"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitormusachio&show_icons=true&locale=en&theme=transparent&hide_border=true&hide_title=true" alt="vitormusachio"/></p>

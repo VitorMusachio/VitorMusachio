@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vitor Musachio!</h1>
 
-- I’m currently working with Data Analytics at [Santander](https://www.santander.com/en/careers/where-you-want-to-create-an-impact/data-science-and-analytics), focusing in anti-fraud models.
+- I’m currently working with Analytics Engineer at [QuintoAndar](https://github.com/quintoandar).
 
 - I also collaborate as a Data Mentor at [Awari School](https://github.com/awarischool), an online school with Data Science courses, helping people get into this career.
 

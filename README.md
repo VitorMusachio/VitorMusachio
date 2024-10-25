@@ -4,8 +4,6 @@
 
 - I also collaborate as a Data Mentor and Instructor at [Awari](https://github.com/awarischool), an online school with Data Science courses, helping people get into this career.
 
-- I’m currently learning **about data platform practices.**
-
 - Fun fact: **I really like music and chess and I'm interested in technology projects in these themes.**
 
 <h3 align="left">Connect with me:</h3>

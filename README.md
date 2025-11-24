@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Vitor Musachio!</h1>
 
-- I’m currently working with **Analytics Engineer** at [@quintoandar](https://github.com/quintoandar).
-
-- I also collaborate as a **Data Mentor** and **Instructor** at [@awarischool](https://github.com/awarischool), an online school with Data Science and Data Engineering courses, helping people get into this career.
+- I’m currently working with **Data & AI Engineer** at [@quintoandar](https://github.com/quintoandar).
 
 - Fun fact: I really like **music** and **chess** and I'm interested in technology projects in these themes.
 

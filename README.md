@@ -84,7 +84,7 @@ The projects above are public and documented in Portuguese.
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=VitorMusachio&theme=transparent&hide_border=true" alt="Contribution streak" />
   <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
@@ -93,6 +93,12 @@ The projects above are public and documented in Portuguese.
     <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
     <img src="./profile/snake.svg" alt="Contribution graph" />
   </picture>
+</p>
+
+## 🎧 Recently played
+
+<p align="center">
+  <a href="https://www.last.fm/user/VitorMusachio"><img src="https://lastfm-recently-played.vercel.app/api?user=VitorMusachio&count=3&width=500" alt="Recently played on Last.fm" /></a>
 </p>
 
 ## 🤝 Working together

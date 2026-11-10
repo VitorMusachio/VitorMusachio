@@ -102,7 +102,7 @@ The projects above are public and documented in Portuguese.
 ## 🎧 Recently played
 
 <p align="center">
-  <a href="https://www.last.fm/user/VitorMusachio"><img src="https://lastfm-recently-played.vercel.app/api?user=VitorMusachio&count=3&width=500" alt="Recently played on Last.fm" /></a>
+  <a href="https://www.last.fm/user/VitorMusachio"><img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=VitorMusachio&theme=nord&loved=title&stats=block&count=3&width=800" alt="Recently played on Last.fm" /></a>
 </p>
 
 ## 🤝 Working together

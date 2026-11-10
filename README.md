@@ -84,8 +84,12 @@ The projects above are public and documented in Portuguese.
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=VitorMusachio&theme=transparent&hide_border=true" alt="Contribution streak" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
   <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VitorMusachio&theme=transparent&hide_border=true" alt="Contribution streak" />
 </p>
 
 <p align="center">

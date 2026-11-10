@@ -26,8 +26,8 @@ I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awar
 ## 🚀 Selected work
 
 <p align="center">
-  <a href="https://github.com/VitorMusachio/discogs-data-lake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorMusachio&repo=discogs-data-lake&theme=transparent&hide_border=true" alt="discogs-data-lake" /></a>
-  <a href="https://github.com/VitorMusachio/awari-by-fluency-engenharia-de-dados"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorMusachio&repo=awari-by-fluency-engenharia-de-dados&theme=transparent&hide_border=true" alt="awari-by-fluency-engenharia-de-dados" /></a>
+  <a href="https://github.com/VitorMusachio/discogs-data-lake"><img src="./profile/pin-discogs-data-lake.svg" alt="discogs-data-lake" /></a>
+  <a href="https://github.com/VitorMusachio/awari-by-fluency-engenharia-de-dados"><img src="./profile/pin-awari-engenharia-de-dados.svg" alt="awari-by-fluency-engenharia-de-dados" /></a>
 </p>
 
 - **[discogs-data-lake](https://github.com/VitorMusachio/discogs-data-lake).** A lakehouse built on the Discogs API with a medallion architecture (bronze, silver, gold), ending in fact and dimension tables served for analytics. Airflow, Spark, MinIO, Trino, Metabase, Docker Compose.
@@ -66,12 +66,15 @@ Most of my professional work lives in private repositories. The projects above a
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorMusachio&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMusachio&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,html,css,plpgsql" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorMusachio&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <img src="./profile/snake.svg" alt="Contribution graph" />
+  </picture>
 </p>
 
 ## 🤝 Working together

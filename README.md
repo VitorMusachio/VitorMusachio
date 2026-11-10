@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vitormusachio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@vitormusachio"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://twitter.com/vitormusachio"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.last.fm/user/VitorMusachio"><img src="https://img.shields.io/badge/Last.fm-D51007?style=flat-square&logo=lastdotfm&logoColor=white" alt="Last.fm" /></a>
-  <a href="https://www.chess.com/member/vitormusachio"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=flat-square&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
-  <a href="https://lichess.org/@/vitormusachio"><img src="https://img.shields.io/badge/Lichess-000000?style=flat-square&logo=lichess&logoColor=white" alt="Lichess" /></a>
+  <a href="https://linkedin.com/in/vitormusachio"><img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@vitormusachio"><img src="https://img.shields.io/badge/Medium-374151?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.last.fm/user/VitorMusachio"><img src="https://img.shields.io/badge/Last.fm-374151?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm" /></a>
+  <a href="https://www.discogs.com/user/vitormusachio/collection"><img src="https://img.shields.io/badge/Discogs-374151?style=for-the-badge&logo=discogs&logoColor=white" alt="Discogs" /></a>
+  <a href="https://www.chess.com/member/vitormusachio"><img src="https://img.shields.io/badge/Chess.com-374151?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
+  <a href="https://lichess.org/@/vitormusachio"><img src="https://img.shields.io/badge/Lichess-374151?style=for-the-badge&logo=lichess&logoColor=white" alt="Lichess" /></a>
 </p>
 
 I design and build data platforms and the AI systems that run on top of them. I am currently a senior specialist Data & AI Engineer at [QuintoAndar](https://github.com/quintoandar). I have worked with data since 2017, and since 2023 my focus has been data engineering and AI.

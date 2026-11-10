@@ -1,31 +1,81 @@
-<h1 align="center">Hi, I'm Vitor Musachio!</h1>
+<h1 align="center">Vitor Musachio</h1>
 
-- I’m currently working with **Data & AI Engineer** at [@quintoandar](https://github.com/quintoandar).
-
-- Fun fact: I really like **music** and **chess** and I'm interested in technology projects in these themes.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vitormusachio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vitormusachio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vitormusachio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitormusachio" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12914814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12914814" height="30" width="40" /></a>
-<a href="https://kaggle.com/vitormusachio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vitormusachio" height="30" width="40" /></a>
-<a href="https://instagram.com/vitormusachio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitormusachio" height="30" width="40" /></a>
-<a href="https://medium.com/@vitormusachio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vitormusachio" height="30" width="40" /></a>
-<a href="https://discord.gg/vitormusachio#1547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vitormusachio#1547" height="30" width="40" /></a>
-<a href="https://www.last.fm/user/VitorMusachio" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/lastfm-83445.png" alt="VitorMusachio" height="30" width="30" /></a>
-<a href="https://www.chess.com/member/vitormusachio" target="blank"><img align="center" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" alt="vitormusachio" height="30" width="20" /></a>
- <a href="https://lichess.org/@/vitormusachio" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/lichess.svg" alt="vitormusachio" height="30" width="40" /></a>
+<p align="center">
+  <strong>Senior Data & AI Engineer</strong> · São Paulo, Brazil (UTC−3)
 </p>
 
-
-
-<h3 align="left">Toolkit:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="r" width="40" height="40"/> </a> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40"/> </a> <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.looker.com/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/qeopvtiy4eew/5d7ZhffO1g9JpFKSXT06kB/629978a1f48ed4bd953d13401d13182a/looker-logo_200x200_square.svg" alt="looker" width="40" height="40"/> </a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a> <a href="http://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="https://linkedin.com/in/vitormusachio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@vitormusachio"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://twitter.com/vitormusachio"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.last.fm/user/VitorMusachio"><img src="https://img.shields.io/badge/Last.fm-D51007?style=flat-square&logo=lastdotfm&logoColor=white" alt="Last.fm" /></a>
+  <a href="https://www.chess.com/member/vitormusachio"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=flat-square&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
+  <a href="https://lichess.org/@/vitormusachio"><img src="https://img.shields.io/badge/Lichess-000000?style=flat-square&logo=lichess&logoColor=white" alt="Lichess" /></a>
 </p>
 
+I design and build data platforms and the AI systems that run on top of them. I am currently a senior specialist Data & AI Engineer at [QuintoAndar](https://github.com/quintoandar). I have worked with data since 2017, and since 2023 my focus has been data engineering and AI.
 
+I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awari and mentored students in data and software engineering.
 
-<h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vitormusachio&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="vitormusachio"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitormusachio&layout=compact&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="vitormusachio"/></p>
+## 🧭 What I do
+
+- 🏗️ **Data platforms.** Batch and streaming pipelines, lakehouse and warehouse modeling, orchestration, and data quality.
+- 🤖 **AI engineering.** Getting AI workloads into production on a data foundation that can be trusted.
+- 🎓 **Teaching and mentoring.** Turning production experience into courses, hands-on labs, and one-to-one guidance.
+
+## 🚀 Selected work
+
+<p align="center">
+  <a href="https://github.com/VitorMusachio/discogs-data-lake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorMusachio&repo=discogs-data-lake&theme=transparent&hide_border=true" alt="discogs-data-lake" /></a>
+  <a href="https://github.com/VitorMusachio/awari-by-fluency-engenharia-de-dados"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorMusachio&repo=awari-by-fluency-engenharia-de-dados&theme=transparent&hide_border=true" alt="awari-by-fluency-engenharia-de-dados" /></a>
+</p>
+
+- **[discogs-data-lake](https://github.com/VitorMusachio/discogs-data-lake).** A lakehouse built on the Discogs API with a medallion architecture (bronze, silver, gold), ending in fact and dimension tables served for analytics. Airflow, Spark, MinIO, Trino, Metabase, Docker Compose.
+- **[awari-by-fluency-engenharia-de-dados](https://github.com/VitorMusachio/awari-by-fluency-engenharia-de-dados).** The Docker workspace, DAGs, and notebooks I used to teach the Data Engineering course at Awari. Airflow, MinIO, PostgreSQL, Metabase, JupyterLab, Docker Compose.
+
+Most of my professional work lives in private repositories. The projects above are public and documented in Portuguese.
+
+## 🎓 Teaching
+
+- **Instructor, Data Engineering course**, Awari (Jun 2023 – Mar 2025)
+- **Mentor, data and software engineering**, Awari (May 2022 – Mar 2025)
+
+## 🛠️ Toolkit
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+**Data**
+
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+
+**Cloud and infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorMusachio&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMusachio&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,html,css,plpgsql" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorMusachio&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+## 🤝 Working together
+
+Alongside my full-time role, I take on a small number of freelance and consulting projects in data engineering and AI: platform design, pipeline builds, architecture reviews, and team training. I work remotely from São Paulo, with working hours that overlap with both the Americas and Europe.
+
+If you have a project in mind, message me on [LinkedIn](https://linkedin.com/in/vitormusachio).

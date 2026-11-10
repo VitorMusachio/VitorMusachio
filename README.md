@@ -23,6 +23,29 @@ I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awar
 - 🤖 **AI engineering.** Getting AI workloads into production on a data foundation that can be trusted.
 - 🎓 **Teaching and mentoring.** Turning production experience into courses, hands-on labs, and one-to-one guidance.
 
+## 🏢 Where I work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/quintoandar"><img src="./profile/org-quintoandar.png" width="48" height="48" alt="QuintoAndar logo" /></a>
+      <br />
+      <strong><a href="https://github.com/quintoandar">QuintoAndar</a></strong>
+      <br />
+      Senior specialist Data & AI Engineer, working on the data platform and AI products.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/itnavent"><img src="./profile/org-itnavent.png" width="48" height="48" alt="Navent logo" /></a>
+      <br />
+      <strong><a href="https://github.com/itnavent">Navent</a></strong>
+      <br />
+      Part of the QuintoAndar group, running its Latin American operation. I work on migrating and unifying the data platforms of the two companies, and on the AI ecosystem.
+    </td>
+  </tr>
+</table>
+
+Across both, my focus is on the B2B and marketplace products. Both organizations keep their code private, and that is where most of my contributions go.
+
 ## 🚀 Selected work
 
 <p align="center">
@@ -33,7 +56,7 @@ I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awar
 - **[discogs-data-lake](https://github.com/VitorMusachio/discogs-data-lake).** A lakehouse built on the Discogs API with a medallion architecture (bronze, silver, gold), ending in fact and dimension tables served for analytics. Airflow, Spark, MinIO, Trino, Metabase, Docker Compose.
 - **[awari-by-fluency-engenharia-de-dados](https://github.com/VitorMusachio/awari-by-fluency-engenharia-de-dados).** The Docker workspace, DAGs, and notebooks I used to teach the Data Engineering course at Awari. Airflow, MinIO, PostgreSQL, Metabase, JupyterLab, Docker Compose.
 
-Most of my professional work lives in private repositories. The projects above are public and documented in Portuguese.
+The projects above are public and documented in Portuguese.
 
 ## 🎓 Teaching
 

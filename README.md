@@ -41,8 +41,6 @@ I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awar
 
 <br clear="left" />
 
-Across both, my focus is on the B2B and marketplace products. Both organizations keep their code private, and that is where most of my contributions go.
-
 ## 🚀 Selected work
 
 <p align="center">

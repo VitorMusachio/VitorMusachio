@@ -25,8 +25,8 @@ I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awar
 
 ## 🏢 Where I work
 
-- **[QuintoAndar](https://github.com/quintoandar).** Senior specialist Data & AI Engineer.
-- **[Navent](https://github.com/itnavent).** Part of the QuintoAndar group, running its Latin American operation. I work on Navent's projects as well.
+- **[QuintoAndar](https://github.com/quintoandar).** Senior specialist Data & AI Engineer, working on the data platform and AI products.
+- **[Navent](https://github.com/itnavent).** Part of the QuintoAndar group, running its Latin American operation. I work on migrating and unifying the data platforms of the two companies, and on the AI ecosystem.
 
 Both organizations keep their code private, and that is where most of my contributions go.
 

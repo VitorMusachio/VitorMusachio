@@ -1,8 +1,6 @@
 <h1 align="center">Vitor Musachio</h1>
 
-<p align="center">
-  <strong>Senior Data & AI Engineer</strong> · São Paulo, Brazil (UTC−3)
-</p>
+<h3 align="center">Senior Data & AI Engineer · São Paulo, Brazil (UTC−3)</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vitormusachio"><img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTkgNGg2YTIgMiAwIDAgMSAyIDJ2MWgzYTIgMiAwIDAgMSAyIDJ2OWEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY5YTIgMiAwIDAgMSAyLTJoM1Y2YTIgMiAwIDAgMSAyLTJ6bTAgM2g2VjZIOXYxeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
@@ -25,24 +23,23 @@ I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awar
 
 ## 🏢 Where I work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/quintoandar"><img src="./profile/org-quintoandar.png" width="48" height="48" alt="QuintoAndar logo" /></a>
-      <br />
-      <strong><a href="https://github.com/quintoandar">QuintoAndar</a></strong>
-      <br />
-      Senior specialist Data & AI Engineer, working on the data platform and AI products.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/itnavent"><img src="./profile/org-itnavent.png" width="48" height="48" alt="Navent logo" /></a>
-      <br />
-      <strong><a href="https://github.com/itnavent">Navent</a></strong>
-      <br />
-      Part of the QuintoAndar group, running its Latin American operation. I work on migrating and unifying the data platforms of the two companies, and on the AI ecosystem.
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/quintoandar"><img src="./profile/org-quintoandar.png" align="left" width="48" height="48" alt="QuintoAndar logo" /></a>
+  <strong><a href="https://github.com/quintoandar">QuintoAndar</a></strong>
+  <br />
+  Senior specialist Data & AI Engineer, working on the data platform and AI products.
+</p>
+
+<br clear="left" />
+
+<p>
+  <a href="https://github.com/itnavent"><img src="./profile/org-itnavent.png" align="left" width="48" height="48" alt="Navent logo" /></a>
+  <strong><a href="https://github.com/itnavent">Navent</a></strong>
+  <br />
+  Part of the QuintoAndar group, running its Latin American operation. I work on migrating and unifying the data platforms of the two companies, and on the AI ecosystem.
+</p>
+
+<br clear="left" />
 
 Across both, my focus is on the B2B and marketplace products. Both organizations keep their code private, and that is where most of my contributions go.
 

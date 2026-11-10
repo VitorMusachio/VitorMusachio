@@ -27,7 +27,7 @@ I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awar
   <a href="https://github.com/quintoandar"><img src="./profile/org-quintoandar.png" align="left" width="48" height="48" alt="QuintoAndar logo" /></a>
   <strong><a href="https://github.com/quintoandar">QuintoAndar</a></strong>
   <br />
-  Senior specialist Data & AI Engineer, working on the data platform and AI products.
+  Senior specialist Data & AI Engineer, working on the data platform and AI products for B2B and Marketplace operations.
 </p>
 
 <br clear="left" />

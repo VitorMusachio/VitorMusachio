@@ -58,10 +58,17 @@ jobs:
             profile/snake.svg
             profile/snake-dark.svg?palette=github-dark
 
+      - name: Organization logos
+        run: |
+          mkdir -p profile
+          for org in quintoandar itnavent; do
+            curl -fsSL "https://github.com/${org}.png?size=96" -o "profile/org-${org}.png"
+          done
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile
           git commit -m "Update profile cards" || exit 0
           git push

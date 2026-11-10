@@ -28,14 +28,14 @@ I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awar
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/quintoandar"><img src="https://github.com/quintoandar.png?size=96" width="48" height="48" alt="QuintoAndar logo" /></a>
+      <a href="https://github.com/quintoandar"><img src="./profile/org-quintoandar.png" width="48" height="48" alt="QuintoAndar logo" /></a>
       <br />
       <strong><a href="https://github.com/quintoandar">QuintoAndar</a></strong>
       <br />
       Senior specialist Data & AI Engineer, working on the data platform and AI products.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/itnavent"><img src="https://github.com/itnavent.png?size=96" width="48" height="48" alt="Navent logo" /></a>
+      <a href="https://github.com/itnavent"><img src="./profile/org-itnavent.png" width="48" height="48" alt="Navent logo" /></a>
       <br />
       <strong><a href="https://github.com/itnavent">Navent</a></strong>
       <br />

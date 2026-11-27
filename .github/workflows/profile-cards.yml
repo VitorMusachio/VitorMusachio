@@ -46,7 +46,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=VitorMusachio&repo=awari-by-fluency-engenharia-de-dados&theme=transparent&hide_border=true
+          options: username=awarischool&repo=awari-engenharia-de-dados-docker&theme=transparent&hide_border=true
           path: profile/pin-awari-engenharia-de-dados.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

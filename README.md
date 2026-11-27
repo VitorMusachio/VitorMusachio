@@ -45,11 +45,11 @@ I also teach. Between 2022 and 2025 I taught the Data Engineering course at Awar
 
 <p align="center">
   <a href="https://github.com/VitorMusachio/discogs-data-lake"><img src="./profile/pin-discogs-data-lake.svg" alt="discogs-data-lake" /></a>
-  <a href="https://github.com/VitorMusachio/awari-by-fluency-engenharia-de-dados"><img src="./profile/pin-awari-engenharia-de-dados.svg" alt="awari-by-fluency-engenharia-de-dados" /></a>
+  <a href="https://github.com/awarischool/awari-engenharia-de-dados-docker"><img src="./profile/pin-awari-engenharia-de-dados.svg" alt="awari-engenharia-de-dados-docker" /></a>
 </p>
 
 - **[discogs-data-lake](https://github.com/VitorMusachio/discogs-data-lake).** A lakehouse built on the Discogs API with a medallion architecture (bronze, silver, gold), ending in fact and dimension tables served for analytics. Airflow, Spark, MinIO, Trino, Metabase, Docker Compose.
-- **[awari-by-fluency-engenharia-de-dados](https://github.com/VitorMusachio/awari-by-fluency-engenharia-de-dados).** The Docker workspace, DAGs, and notebooks I used to teach the Data Engineering course at Awari. Airflow, MinIO, PostgreSQL, Metabase, JupyterLab, Docker Compose.
+- **[awari-engenharia-de-dados-docker](https://github.com/awarischool/awari-engenharia-de-dados-docker).** The Docker workspace, DAGs, and notebooks for the Data Engineering course at Awari, which I contributed to while teaching it. Airflow, MinIO, PostgreSQL, Metabase, JupyterLab, Docker Compose.
 
 The projects above are public and documented in Portuguese.
 
